@@ -10,25 +10,3 @@
 body {
     background-color: #fff9ea;
 }
-
-section {
-    padding: 28px 8%;
-}
-
-.btn_default {
-    border: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #ffcb45;
-    border-radius: 12px;
-    padding: 10px 14px;
-    font-weight: 60;
-    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-    transition: background-color .3s ease;
-}
-
-.btn_default:hover {
-    background-color: #f8d477;
-}
